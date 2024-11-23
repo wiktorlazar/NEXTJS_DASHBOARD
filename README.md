@@ -4,4 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-![Description of Image](https://i.pinimg.com/enabled_lo_mid/736x/7e/ee/1c/7eee1ca0ed73c0875712667e6352363c.jpg)
+![Description of Image](https://mir-s3-cdn-cf.behance.net/project_modules/1400/5d7eba140254355.623df2e232472.jpg)
